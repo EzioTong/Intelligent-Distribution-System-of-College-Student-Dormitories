@@ -1,0 +1,68 @@
+<component name="libraryTable">
+  <library name="poi-3.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/poi-3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/audio.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-dbutils-1.7-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-dbutils-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jacob-1.14.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jxl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.0.4-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.6-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-3.11-20141221.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-examples-3.11-20141221.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-excelant-3.11-20141221.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-ooxml-3.11-20141221.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-ooxml-schemas-3.11-20141221.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-scratchpad-3.11-20141221.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/seaglass-demo.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/SwingSets3(BeautyEyeLNFDemo).jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/swingx-core-1.6.2-java7-patched.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-beanutils-1.9.4-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-beanutils-1.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ezmorph-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/FastInoset.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gmbal-api-only.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ha-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-xjc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxws-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxws-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxws-tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/json-lib-2.4-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsr181-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/management-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mimepull.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.48-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.48.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/policy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/saaj-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/saaj-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/stax-ex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/stax2-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/streambuffer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/woodstox-core-asl.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/commons-dbutils-1.7-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/seaglass-demo.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-beanutils-1.9.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang-2.6-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-dbutils-1.7-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-dbutils-1.7-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-beanutils-1.9.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-beanutils-1.9.4-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang-2.6-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.48.zip!/mysql-connector-java-5.1.48/src" />
+    </SOURCES>
+  </library>
+</component>
